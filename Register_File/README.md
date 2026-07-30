@@ -1,8 +1,8 @@
-\# Register File
+# Register File
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,35 +10,35 @@ An 8×8 Register File implemented in Verilog HDL. The design supports synchronou
 
 
 
-\## Files
+## Files
 
 
 
-\- register\_file.v
+- register_file.v
 
-\- tb\_register\_file.v
-
-
-
-\## Features
+- tb_register_file.v
 
 
 
-\- 8 registers
-
-\- 8-bit data width
-
-\- Synchronous write
-
-\- Asynchronous read
-
-\- Reset support
+## Features
 
 
 
-\## Simulation
+- 8 registers
+
+- 8-bit data width
+
+- Synchronous write
+
+- Asynchronous read
+
+- Reset support
 
 
 
-!\[Register File Waveform](images/register\_file\_waveform.png)
+## Simulation
+
+
+
+![Register File Waveform](images/register_file_waveform.png)
 

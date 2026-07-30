@@ -1,8 +1,8 @@
-\# ALU
+# ALU
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -10,39 +10,39 @@ An 8-bit Arithmetic Logic Unit (ALU) implemented in Verilog HDL.
 
 
 
-\## Files
+## Files
 
 
 
-\- alu.v
+- alu.v
 
-\- tb\_alu.v
-
-
-
-\## Operations
+- tb\_alu.v
 
 
 
-\- Addition
-
-\- Subtraction
-
-\- Bitwise AND
-
-\- Bitwise OR
-
-\- Bitwise XOR
-
-\- NOT
-
-\- Left shift
-
-\- Right shift
+## Operations
 
 
 
-\## Simulation
+- Addition
+
+- Subtraction
+
+- Bitwise AND
+
+- Bitwise OR
+
+- Bitwise XOR
+
+- NOT
+
+- Left shift
+
+- Right shift
+
+
+
+## Simulation
 
 
 

@@ -46,7 +46,7 @@ An 8-bit Arithmetic Logic Unit (ALU) implemented in Verilog HDL.
 
 
 
-!\[ALU Waveform](images/alu\_waveform.png)
+![ALU Waveform](images/alu_waveform.png)
 
 
 
